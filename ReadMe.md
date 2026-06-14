@@ -29,4 +29,3 @@
 ## Screenshots
 
 ![mywebpagetask dashboard](docs/screenshots/app.png)
-
