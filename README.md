@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🚀 Mywebpagetask
+# Web Page Task
 
-**Mywebpagetask — professional open source project.**
+**Small web page task project for practicing static site structure, HTML content, CSS styling, and browser-based UI presentation.**
 
-Documented · MIT licensed · Maintained
+HTML, CSS, JavaScript, web page
 
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+[![Maintained](https://img.shields.io/badge/Maintained-yes-22c55e?style=for-the-badge)](https://github.com/mafzalkalwardev/mywebpagetask)
 
 </div>
 
@@ -17,17 +17,27 @@ Documented · MIT licensed · Maintained
 
 ![Application screenshot](docs/screenshots/app.png)
 
+## Overview
 
-## 🐍 Contribution graph
+This repository contains a web page practice task for building and polishing static site structure, page content, CSS styling, and browser-based UI presentation.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mywebpagetask/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mywebpagetask/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/mywebpagetask/output/snake.svg" />
-</picture>
+## Highlights
 
----
+- Clean static web page structure.
+- Screenshot documentation for portfolio review.
+- Simple project layout for HTML/CSS/JavaScript practice.
+- Maintained by [Muhammad Afzal Kalwar](https://github.com/mafzalkalwardev).
 
-## 🚀 Quick start
+## Quick Start
 
-Clone the repository and follow project-specific setup in docs.
+Clone the repository and open the HTML files in a browser:
+
+```bash
+git clone https://github.com/mafzalkalwardev/mywebpagetask.git
+cd mywebpagetask
+```
+
+## Author
+
+Muhammad Afzal Kalwar - Full-Stack Developer and Python Automation Engineer  
+Portfolio: https://mafzalkalwardev.github.io
